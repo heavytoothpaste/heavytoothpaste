@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heavytoothpaste
 - 👀 I’m interested in Math, Swimming, Chess, Computer Science, and Video games.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
