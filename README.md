@@ -1,4 +1,4 @@
-Stanford '29, hire me please @meta
+Stanford '29, hire me please @meta <br>
 Linkedin: [https://www.linkedin.com/in/mingchuan-cheng/](url)
 
 
